@@ -1,0 +1,8 @@
+{
+  "name": "Shaheen Academy - Python, Linux \u0026 A-Level CS 9618 Academy",
+  "description": "An interactive educational platform for advanced students and self-taught developers mastering Python programming, Linux sysadmin, and A-Level Computer Science theory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
